@@ -4,16 +4,24 @@
 
 h1{
 	margin-bottom: 15px;
+	align-content: center
 }
 
 .row{
 	width: 100%;
+	position: relative;
 }
 
 section{
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+p{
+	position: absolute;
+	left: -1;
+
 }
 
 
