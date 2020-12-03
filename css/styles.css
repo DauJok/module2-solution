@@ -18,10 +18,17 @@ section{
 	margin-right: auto;
 }
 
+title{
+	border: 1px solid black;
+	position: relative;
+	right: 50;
+	float: left;
+
+}
+
 p{
 	position: absolute;
-	left: -1;
-
+	border: 1px solid black;
 }
 
 
